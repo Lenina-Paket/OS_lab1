@@ -1,6 +1,0 @@
-/home/artyom/Документы/vs code projects/OS_labs/lab4/build/CMakeFiles/_1.dir
-/home/artyom/Документы/vs code projects/OS_labs/lab4/build/CMakeFiles/_2.dir
-/home/artyom/Документы/vs code projects/OS_labs/lab4/build/CMakeFiles/stat.dir
-/home/artyom/Документы/vs code projects/OS_labs/lab4/build/CMakeFiles/dyn.dir
-/home/artyom/Документы/vs code projects/OS_labs/lab4/build/CMakeFiles/edit_cache.dir
-/home/artyom/Документы/vs code projects/OS_labs/lab4/build/CMakeFiles/rebuild_cache.dir
