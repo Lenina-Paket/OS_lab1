@@ -1,0 +1,4 @@
+/home/artyom/Документы/vs code projects/OS_labs/lab-5-7/build/CMakeFiles/control.dir
+/home/artyom/Документы/vs code projects/OS_labs/lab-5-7/build/CMakeFiles/calculation.dir
+/home/artyom/Документы/vs code projects/OS_labs/lab-5-7/build/CMakeFiles/edit_cache.dir
+/home/artyom/Документы/vs code projects/OS_labs/lab-5-7/build/CMakeFiles/rebuild_cache.dir

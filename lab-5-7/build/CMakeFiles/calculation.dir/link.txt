@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/calculation.dir/calculation.cpp.o -o calculation  -lzmq 
